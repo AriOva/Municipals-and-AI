@@ -1,4 +1,4 @@
-# Municipals-and-AI
+# Municipals and AI
 
 Municipals and vitality created by local enterprises
 
