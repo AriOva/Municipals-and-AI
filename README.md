@@ -6,8 +6,6 @@ Final project for the Building AI course
 
 ## Summary
 
-Municipals and vitality created by local enterprises - Final project for the Building AI course
-
 Support municipalities in decision making to support enterprises that create the optimal impact on vitality of municipal, like increased tax income and supporting people to stay in district.
 
 ## Background
